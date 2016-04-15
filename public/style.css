@@ -1,0 +1,49 @@
+input[type=checkbox],
+input[type=radio] {
+	margin-right: 6px;
+}
+
+input[type=submit] {
+	margin-top: 20px;
+}
+
+.row:before,
+.row:after {
+	display: initial;
+	content: initial;
+}
+
+.checkbox {
+	width: 250px;
+}
+
+h1,
+h4 {
+	text-align: center;
+}
+
+h1 {
+	margin: 50px auto;
+}
+
+.table {
+	margin-bottom: 0;
+}
+
+td input,
+td label {
+	display: inline;
+}
+
+.functions-container {
+	border: 1px solid #ddd;
+	padding: 30px;
+}
+
+.description {
+	display: block;
+	min-height: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	vertical-align: middle;
+}

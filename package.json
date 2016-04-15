@@ -1,0 +1,19 @@
+{
+  "name": "javascript-functions",
+  "version": "1.0.0",
+  "description": "This is a simple site that allows me to select from some of my most commonly used Javascript functions and download the selected files to a custom .js file.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Amore",
+  "license": "ISC",
+  "respository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "body-parser": "^1.12.4",
+    "express": "^4.12.4"
+  }
+}
