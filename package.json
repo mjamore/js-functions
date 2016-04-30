@@ -4,7 +4,8 @@
   "description": "This is a simple site that allows me to select from some of my most commonly used Javascript functions and download the selected files to a custom .js file.",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server/server.js"
   },
   "author": "Michael Amore",
   "license": "ISC",
