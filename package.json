@@ -11,7 +11,7 @@
   "license": "ISC",
   "respository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/mjamore/js-functions.git"
   },
   "dependencies": {
     "body-parser": "^1.12.4",
